@@ -16,6 +16,6 @@ How to Run:
 - At anytime you can selct pause and reset to start over or add more lifde to the simulation.
 
 ***Disclaimer
-This app idea is not mmy own and was first created by John Conway.
-There are in fact better veriosn of this simulation available, this was a
-ffun project to work on but i take no credit for intellectual properties.
+This app idea is not my own and was first created by John Conway.
+There are in fact better versions of this simulation available, this was a
+fun project to work on but I take no credit for intellectual properties and ideas behind this project.
