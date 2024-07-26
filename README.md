@@ -12,7 +12,7 @@ How to Run:
 - once you pull this into your IDE you can export as a runnable .jar fil.
 - Then you can select this program as the runnable and export.
 - Once in you will see the main screen with 3 buttons
-- you can start to click bockes on the main screen and press start to watch the simulation.
+- you can start to click blocks on the main screen and press start to watch the simulation.
 - At anytime you can selct pause and reset to start over or add more lifde to the simulation.
 
 ***Disclaimer
